@@ -1,7 +1,1 @@
-iot-predictive-maintenance/
-│
-├── README.md
-├── data/
-├── notebooks/
-├── src/
-└── results/
+mkdir data notebooks src results
