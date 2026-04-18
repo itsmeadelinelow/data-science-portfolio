@@ -1,5 +1,0 @@
-mkdir data notebooks src results
-ls
-touch README.md
-ls
-code .
